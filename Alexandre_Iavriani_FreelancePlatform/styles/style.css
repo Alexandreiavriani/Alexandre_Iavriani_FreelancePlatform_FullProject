@@ -1,0 +1,341 @@
+
+/*Start Main Page */
+
+
+.content{
+width: 1920px;
+margin-left: auto;
+margin-right: auto;
+  }
+  
+  
+
+  
+  
+
+
+
+#navbar{
+    background-color: rgb(128, 201, 250);
+    margin-top: 10px;
+    width: 120rem;
+   
+    
+  
+ 
+}
+
+#logo{
+    font-weight: bold;
+    color: black;
+  
+
+}
+
+#logo span {
+    color: aliceblue;
+}
+
+#container{
+   margin-left: 250px;
+  
+  
+}
+
+.top-navbar{
+    margin-left: 1450px;
+  
+    
+}
+
+
+
+.nav-item .nav-link:hover {
+
+    color:black !important;
+    background-color: rgb(128, 201, 250);
+ 
+   
+    
+}
+
+
+
+
+#topimage { 
+    
+    height: 550px; 
+    width: 100%; 
+  background-image: url(../images/TopImage.jpg);
+    margin: 75px 0 0 0; 
+    overflow: hidden; 
+    
+} 
+
+.img_overlay{
+    height: 550px; 
+    width: 100%; 
+    background-color: rgba(4, 158, 185, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    letter-spacing: 5px;
+    font-size: 3rem;
+    text-align: center;
+ 
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    letter-spacing: 5px;
+    font-size: 2rem;
+}
+
+
+.text_findWork{
+    font-size: 20px;
+  
+    color: rgb(155, 211, 248);
+    width: 550px;
+    margin-top: 75px;
+    font-weight: bold;
+    margin-left: 435px;
+    
+}
+
+.text_findWork2{
+    
+    color: black;
+    margin-top: 75px;
+    font-size: 20px;
+    width: 550px;
+    margin-left: 435px;
+ 
+}
+
+#btn_findWork{
+    width: 225px;
+    height: 45px;
+    margin-left: 435px;
+    margin-top: 75px;
+    background-image: linear-gradient(to right, rgb(8, 115, 177) , rgb(46, 141, 230));
+    color: aliceblue;
+    border: none;
+    border-radius: 40px;
+   
+    
+}
+
+#btn_findWork:hover{
+
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19)
+}
+
+
+
+.findoworkimg{
+    height: 200px; 
+    width: 350px; 
+    object-fit: cover;
+    border-radius: 250px;
+    margin-left:  620px;
+    margin-top: -350px;
+    box-shadow: 5px 10px #2988f5;
+    
+}
+
+.AboutUs{
+    background-color: #2988f5;
+    height: 425px;
+    margin-top: 75px;
+
+    display: flex;
+   
+    
+    color: white;
+   
+    font-size: 40px;
+    font-weight: bold;
+    
+    
+}
+.aboutustext{
+    display: flex;
+    width: 450px;
+    color: white;
+    margin-left: -325px;
+    font-size: 15px;
+    margin-top: 70px;
+}
+
+
+.aboutUsimg{
+    height: 250px; 
+    width: 450px; 
+    object-fit: cover;
+    border-radius: 50px;
+    margin-left: 435px;
+    margin-top: -475px;
+    
+}
+
+
+.samushaosGantavseba{
+    background-color: #036eac;
+    height: 250px;
+    margin-top: 55px;
+
+    display: flex;
+   
+    
+    color: white;
+   
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+.samushaosGantavsebatxt{
+    width: 500px;
+    margin-left: 435px;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+
+#btn_addWork{
+    width: 225px;
+    height: 45px;
+    margin-left: 480px;
+    margin-top: 100px;
+   background-color: azure;
+    color: #036eac;
+    border: none;
+    border-radius: 40px;
+}
+
+#btn_addWork:hover{
+
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19)
+    }
+
+
+.footerlinks{
+    
+    height: 400px;
+ 
+    margin-left: 435px;
+    margin-top: 500px;
+    
+    
+    
+
+}
+
+
+.contactUs{
+    
+    margin-top: -50px;
+    margin-left: 1025px;
+    color: white;
+   
+    
+
+}
+
+
+/* End Main Page*/
+
+#sendWorkImg{
+    
+    height: 300px; 
+    width: 1355px;
+   margin-left: 280px;
+   margin-top: 75px;
+   text-align: center;
+    
+  background-image: url(../images/sendWorkimg.png);
+    
+    overflow: hidden; 
+    
+    
+}
+.img_overlay2{
+    height: 300px; 
+    width: 100%; 
+    background-color: rgba(31, 31, 31, 0.2);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    letter-spacing: 5px;
+    font-size: 3rem;
+    text-align: center;
+}
+
+#reviewImg{
+   
+    height: 300px; 
+    width: 1355px;
+   margin-left: 280px;
+   margin-top: 75px;
+   text-align: center;
+    
+  background-image: url(../images/review.jpg);
+    
+    overflow: hidden; 
+    
+    
+}
+
+.comment{
+    display: flex;
+  
+    margin-top: 100px;
+   
+  
+}
+
+.form-group1{
+    width: 550px;
+    min-height: 5vh;
+}
+
+
+#wantWorkImg{
+    
+    height: 200px; 
+    width: 1355px;
+   margin-left: 280px;
+   margin-top: 75px;
+   text-align: center;
+   object-fit: cover;
+  background-image: url(../images/want_work.jpg);
+    overflow: hidden;
+  background-repeat: no-repeat;
+    
+    
+}
+
+
+  @media (max-width:600px){
+  
+    
+  }
+    
+    @media(max-width:1366px){
+        body{
+            
+            zoom: 0.71;
+        }
+    }
+  
+    
+
+
+    

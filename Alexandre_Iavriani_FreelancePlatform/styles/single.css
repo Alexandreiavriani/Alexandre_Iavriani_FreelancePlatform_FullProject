@@ -1,0 +1,37 @@
+.main p {
+    font-weight: bold;
+    font-size: 20px;
+    
+
+}
+
+.main{
+    margin-left:280px;
+    margin-top: 50px;
+}
+
+.image{
+    width: 50px;
+}
+
+.main img{
+    width: 75px;
+    height: 70px;
+    border-radius: 75%;
+}
+
+.user_info {
+    font-weight: bold;
+    
+}
+
+.job_info{
+    margin-left: 450px;
+    position:absolute;
+    font-weight: bold;
+}
+
+.full_text{
+    width: 500px;
+    margin-top: 100px;
+}
