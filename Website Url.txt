@@ -1,3 +1,4 @@
 https://freeworkplatform.000webhostapp.com/
 
 P.S თუ საიტი არ გიჩანთ,შედით google-ის setting-ებში , privacy and security -> security  და აირჩიეთ no protection
+P.S. If you don't see the website, go to Google settings, privacy and security -> security and select no protection
